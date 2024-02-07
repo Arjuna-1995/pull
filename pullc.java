@@ -1,8 +1,8 @@
 import java.util.Scanner;
 public class pullc
 {
-    public Static void main(string[] args)
+    public Static void main
     {
-        
+
     }
 }
